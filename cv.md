@@ -22,3 +22,12 @@ Want to learn:
 #### Code examples
 * [TODO](https://github.com/justynakluza)
 
+#### Experience
+- Codewars
+
+#### Education
+* (2013-2018) [Pedagogical University of Krakow: Information Architecture] 
+
+#### Languages
+- [x] English: B2
+- [x] Polish:  Native
