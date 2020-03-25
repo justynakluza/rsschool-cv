@@ -1,9 +1,9 @@
 # Justyna Kluza
 
 #### Contact data  
-- :telephone_receiver: Phone number: (+48)7943278886
-- :email: [justyna.kluza@poczta.fm](mailto:justyna.kluza@poczta.fm) 
-- :house: Address: Krakow, Poland
+- Phone: (+48)7943278886
+- e-mail: [justyna.kluza@poczta.fm](mailto:justyna.kluza@poczta.fm) 
+- Home: Address: Krakow, Poland
 
 #### Summary 
 
