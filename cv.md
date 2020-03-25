@@ -11,7 +11,7 @@ Want to learn:
  - [ ] Javascript
  - [ ] React
  - [ ] Node
- - [ ] GraphQL
+ - [ ] RestApi
  - [ ] Mongodb
 
 #### Skills
