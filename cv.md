@@ -1,9 +1,9 @@
 # **Justyna Kluza**
 
 ##### Contact with me  
--- Phone: (+48)7943228888
--- e-mail: [email@example.com](mailto:email@example.com) 
--- Home: Krakow, Poland
+- Phone: (+48)7943228888
+- e-mail: [email@example.com](mailto:email@example.com) 
+- Home: Krakow, Poland
 
 ##### Summary 
 
