@@ -1,32 +1,34 @@
 # Justyna Kluza
 
-#### Contact data  
+##### Contact with me  
 - Phone: (+48)7943228888
-- e-mail: [justyna.kluza@poczta.fm](mailto:justyna.kluza@poczta.fm) 
-- Home: Address: Krakow, Poland
+- e-mail: [email@example.com](mailto:email@example.com) 
+- Home: Krakow, Poland
 
-#### Summary 
+##### Summary 
 
 Want to learn:
- - [ ] Javascript
- - [ ] React
- - [ ] Node
- - [ ] Mongodb
+ - Javascript
+ - React
+ - Node
+ - Mongodb
 
-#### Skills
-- [x] HTML5/CSS3
-- [x] Bootstrap
+##### Skills
+- HTML5/CSS3
+- Bootstrap
 
-
-#### Code examples
+##### Code examples
 * [TODO](https://github.com/justynakluza)
 
-#### Experience
+##### Experience
 - Codewars
 
-#### Education
-* (2013-2018) [Pedagogical University of Krakow: Information Architecture] 
+##### Education
+[x] Pedagogical University of Krakow: *Information Architecture* (2013-2018)
 
-#### Languages
-- [x] English: B2
-- [x] Polish:  Native
+Languages
+------------ | -------------
+English | Polish
+B2 | Native
+
+U+1F61C
